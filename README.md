@@ -21,7 +21,7 @@ This project demonstrates Object-Oriented Programming concepts, exception handli
 ## How to Run
 
 1. Clone the repository:
-git clone https://github.com/YourUsername/SmartexStudentSystem.git
+git clone https://github.com/JyothsnaThangudu/SmartexStudentSystem.git
 
 
 2. Open in IntelliJ IDEA / any other IDE
